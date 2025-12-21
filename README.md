@@ -1,12 +1,12 @@
-## Hi there 👋
+## Me 🙋‍♂️
 
 Hello!!
 
-My name is Niklas Long Schiefelbein and I welcome you to my profile page. 
+My name is Niki and I welcome you to my profile page. 
 
-I am currently finishing my Master's in Artificial Intelligence @UPC in Barcelona. 
+I am half German, half Vietnamesse but living in Barcelona, finishing my Master's in Artificial Intelligence @UPC. 
 
-I am very interested in topics that leverage Artificial Intelligence towards a greener, more sustainable world. If your work aligns with this or if you've got some nice ideas, reach out to me!!
+Leveraging AI towards a greener, more sustainable world is my passion. If your work aligns with this or if you've got some nice ideas, reach out to me!!
 
 Thanks for reading. :)
 
