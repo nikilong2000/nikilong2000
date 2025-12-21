@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+Hello!!
+
+My name is Niklas Long Schiefelbein and I welcome you to my profile page. 
+
+I am currently finishing my Master's in Artificial Intelligence @UPC in Barcelona. 
+
+I am very interested in topics that leverage Artificial Intelligence towards a greener, more sustainable world. If your work aligns with this or if you've got some nice ideas, reach out to me!!
+
+Thanks for reading. :)
+
 <!--
 **nikilong2000/nikilong2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
