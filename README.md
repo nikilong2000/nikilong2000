@@ -2,13 +2,13 @@
 
 Hello!!
 
-My name is Niki and I welcome you to my profile page. 
+I am Niki and I welcome you to my profile page. 
 
-I am half German, half Vietnamesse but living in Barcelona, finishing my Master's in Artificial Intelligence @UPC. 
+I am 50% German, 50% Vietnamesse, living in Barcelona and finishing my Master's in Artificial Intelligence @UPC. 
 
-Leveraging AI towards a greener, more sustainable world is my passion. If your work aligns with this or if you've got some nice ideas, reach out to me!!
+Leveraging AI towards a greener, more sustainable world is what I like. If your work aligns with this or if you've got some nice ideas, reach out to me!!
 
-Thanks for reading. :)
+Thanks for reading. ;D
 
 <!--
 **nikilong2000/nikilong2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
