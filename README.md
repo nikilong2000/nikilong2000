@@ -1,14 +1,14 @@
 ## Me 🙋‍♂️
 
-Hello!!
+Hi!!
 
-I am Niki and I welcome you to my profile page. 
+I am Niki. I studied Business Informatics in my Bachelor's and Artificial Intelligence in my Master's.
 
-50% German, 50% Vietnamesse, living in Barcelona and finishing my Master's in Artificial Intelligence @UPC. 
+I would love to leverage my expertise in AI towards a greener, more sustainable world. That is my passion. 
 
-Leveraging AI towards a greener, more sustainable world is what I like. If your work aligns with this or if you've got some nice ideas, reach out to me!!
+If your work aligns with this or if you've got some nice ideas, please reach out!!
 
-Thanks for reading. ;D
+Greetings :)
 
 <!--
 **nikilong2000/nikilong2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
